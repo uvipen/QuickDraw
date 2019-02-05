@@ -7,7 +7,7 @@ Here is my python source code for QuickDraw - an online game developed by google
 * **Run an app which you could draw on a canvas**
 
 ## Camera app
-In order to use this app, you need a pen (or any object) with blue, red or green color. When the pen (object) appears in front of camera, it will be catched and highlighted by an yellow circle. When you are ready for drawing, you need to press **space** button. When you want to stop drawing, press **space** again
+In order to use this app, you need a pen (or any object) with blue, red or green color. When the pen (object) appears in front of camera, it will be caught and highlighted by an yellow circle. When you are ready for drawing, you need to press **space** button. When you want to stop drawing, press **space** again
 Below is the demo by running the sript **camera_app.py**:
 <p align="center">
   <img src="demo/quickdraw.gif" width=600><br/>
