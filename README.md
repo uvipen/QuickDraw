@@ -1,5 +1,5 @@
 <p align="center">
- <h0 align="center">QuickDraw</h0>
+ <h1 align="center">QuickDraw</h1>
 </p>
 [![GitHub stars](https://img.shields.io/github/stars/uvipen/QuickDraw)](https://github.com/uvipen/QuickDraw/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/uvipen/QuickDraw?color=orange)](https://github.com/uvipen/QuickDraw/network)
