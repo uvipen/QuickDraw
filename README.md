@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/uvipen/QuickDraw)](https://github.com/uvipen/QuickDraw/stargazers)
 # [PYTHON] QuickDraw
 
 ## Introduction
